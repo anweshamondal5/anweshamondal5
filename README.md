@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./banner.jpg" width="100%" alt="Cyberpunk Banner">
+</p>
+
+<br>
 <div align="center">
 
 # Hello, I'm Anwesha Mondal
